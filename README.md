@@ -1,5 +1,5 @@
 # Flat Array module
---
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Usually, this sort of functions belongs to a utility library. That's why I named the file `utls.js`... for the purpose of this exercise it can perfectly be named `index.js`.
